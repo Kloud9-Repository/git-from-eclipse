@@ -6,7 +6,7 @@ package com.javatechie.git_from_eclipse;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("I love it");
+		System.out.println("I love it");//this is noyt reflected
 		System.out.println("Hello World!" + "This is my first application to acess github from my eclipse");
 	}
 }
